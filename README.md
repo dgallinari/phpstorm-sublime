@@ -31,6 +31,7 @@ The list below tries to summarize the key bindings configured by `Sublime.xml` f
 | ReopenClosedTab | shift ctrl t | Reopen last closed tab |
 | SelectAllOccurrences | alt f3 | Select all occurrences of selected text |
 | SelectNextOccurrence | ctrl d | Finds next occurence of selected text |
+| Editor Redo | ctrl y | Redo last action within editor |
 
 ## Optional PhpStorm Plugins
 Some configured bindings require the installation of PhpStorm plugins. It is up to you to install them or not, since the keymap will work fine except for these specific bindings. They are listed here so you may decide whether you install or not a specific PhpStorm plugin.
