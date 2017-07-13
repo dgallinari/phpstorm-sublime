@@ -44,14 +44,13 @@ Some configured bindings require the installation of PhpStorm plugins. It is up 
 | NextWordStartWithSelection | shift ctrl right | Enhances the experience with text selection using shift ctrl arrows |
 | PreviousWordEndWithSelection | shift ctrl left | Enhances the experience with text selection using shift ctrl arrows |
 
-### [CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase)
-| Action ID | Key Binding | Notes |
-| --- | --- | --- |
-| de.netnexus.CamelCasePlugin.ToggleCamelCase | shift ctrl minus (or ctrl underscore) | Toggle between cases |
-
 ### [String Manipulation\*](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 | Action ID | Key Binding | Notes |
 | --- | --- | --- |
 | osmedile.intellij.stringmanip.swap.SwapAction | ctrl t | Equivalent to Sublime `transpose` |
+| StringManipulation.ToSnakeCaseOrCamelCase | shift ctrl minus (or ctrl underscore) | Toggle between cases |
 
-\* This plugin also has a ToggleCamelCase action, but I haven't tested it so far.
+\* This plugin also has a ToggleCamelCase action, which I've tested and chosen.
+
+### [CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase)
+Not in use anymore.
