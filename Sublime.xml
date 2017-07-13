@@ -17,13 +17,17 @@
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
-  <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jdbc.Execute">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="Console.Jpa.Execute" />
   <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
+  <action id="CopyElement" />
   <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.CopyTable" />
   <action id="DatabaseView.ShowDiff" />
   <action id="DecreaseColumnWidth" />
   <action id="Diff.UpdatedFiles" />
@@ -146,6 +150,9 @@
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
+  <action id="PhpDetectPsroRoots">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -156,6 +163,7 @@
   <action id="ReplaceInPath" />
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="Resume" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -166,6 +174,13 @@
   </action>
   <action id="SendEOF" />
   <action id="ShowBookmarks" />
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -189,13 +204,11 @@
     <keyboard-shortcut first-keystroke="shift f11" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
-  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
-    <keyboard-shortcut first-keystroke="shift alt u" />
-    <keyboard-shortcut first-keystroke="shift ctrl minus" />
-  </action>
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
   <action id="hg4idea.push" />
   <action id="osmedile.intellij.stringmanip.swap.SwapAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
