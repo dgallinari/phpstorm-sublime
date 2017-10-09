@@ -53,4 +53,3 @@ Some configured bindings require the installation of PhpStorm plugins. It is up 
 \* This plugin also has a ToggleCamelCase action, which I've tested and chosen.
 
 ### [CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase)
-Not in use.
