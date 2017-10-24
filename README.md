@@ -50,7 +50,7 @@ Some configured bindings require the installation of PhpStorm plugins. It is up 
 | osmedile.intellij.stringmanip.swap.SwapAction | ctrl t | Equivalent to Sublime `transpose` |
 | StringManipulation.ToSnakeCaseOrCamelCase | shift ctrl minus (or ctrl underscore) | Toggle between cases |
 
-\* This plugin also has a ToggleCamelCase action, which I've tested and chosen.
+\* This plugin also has a ToggleCamelCase action, which I've tested and chosen *\.
 
 ### [CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase)
 Not in use anymore.
