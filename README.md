@@ -5,7 +5,8 @@ A PhpStorm keymap strongly inspired on Sublime Text 3 (some packages' keymaps in
 ## Installation
 Copy the file `Sublime.xml` and paste into your `config/keymaps`\* directory ([see docs here](https://www.jetbrains.com/help/phpstorm/2017.1/configuring-keyboard-shortcuts.html)).
 - Windows and *NIX systems: `<User home>/.PhpStorm<xx>/config/keymaps`
-- macOS: `~/Library/Preferences/PhpStorm<xx>/keymaps/`
+- macOS: `~/Library/Preferences/PhpStorm<xx>/keymaps/` 
+
 
 `* You may have to create the keymaps directory if it doesn't exist.`
 
