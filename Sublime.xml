@@ -67,6 +67,8 @@
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorNextWordWithSelection" />
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorSelectWord">
@@ -145,6 +147,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="NextOccurence" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -154,6 +159,9 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="PreviousOccurence" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
